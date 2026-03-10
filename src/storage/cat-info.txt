@@ -1,0 +1,34 @@
+// import { EmbedBuilder } from 'discord.js'
+// import { createCommandConfig, logger } from 'robo.js'
+
+// export const config = createCommandConfig({
+// 	description: 'View a cat!',
+// 	options: [{
+// 		name: 'cat',
+// 		description: 'fluffy',
+// 		type: 'string',
+// 		choices: [
+// 			{ name: 'cat', value: 'cat' },
+// 			{ name: 'carcer city', value: 'carcer city' }
+// 		],
+// 		required: true
+// 	}]
+// })
+
+// export default async (interaction) => {
+// 	logger.info(`${interaction.user} viewed a cat`)
+// 	const cat = new EmbedBuilder()
+// 		.setTitle('Cat')
+// 		.setDescription('Basic')
+// 		.setColor('5865F2')
+// 		.addFields(
+// 			{ name: 'Health', value: '40' },
+// 			{ name: 'Damage', value: '15' },
+// 			{ name: 'Ability', value: 'The First: When a fight beings you make the first move.'}
+// 		)
+// 		.setThumbnail('https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless')
+
+//     if (interaction.options.getString('cat').includes("cat")) {
+//         interaction.reply({ embeds: [cat]} )
+//     }
+// }

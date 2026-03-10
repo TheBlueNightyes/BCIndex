@@ -1,0 +1,1 @@
+export const catAnswers = new Map();

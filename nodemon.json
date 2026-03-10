@@ -1,0 +1,6 @@
+{
+    "ignore": [
+        "storage/*.json"
+    ],
+    "ext": "js,mjs,ejs"
+}
