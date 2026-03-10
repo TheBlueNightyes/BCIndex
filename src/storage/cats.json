@@ -1,55 +1,55 @@
 {
     "cat": {
         "name": "Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/9/94/000_1.png/revision/latest?cb=20210814001423",
         "rarity": "Normal",
         "banner": "None"
     },
     "macho cat": {
         "name": "Macho Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/a/a2/000_2.png/revision/latest?cb=20150528124939",
         "rarity": "Normal",
         "banner": "None"
     },
     "mohawk cat": {
         "name": "Mohawk Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/d/d4/000_3.png/revision/latest?cb=20201119140746",
         "rarity": "Normal",
         "banner": "None"
     },
     "tank cat": {
         "name": "Tank Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/d/d8/001_1.png/revision/latest?cb=20150604160102",
         "rarity": "Normal",
         "banner": "None"
     },
     "wall cat": {
         "name": "Wall Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/5/58/001_2.png/revision/latest?cb=20150604160124",
         "rarity": "Normal",
         "banner": "None"
     },
     "eraser cat": {
         "name": "Eraser Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/9/9a/001_3.png/revision/latest?cb=20150604160213",
         "rarity": "Normal",
         "banner": "None"
     },
     "axe cat": {
         "name": "Axe Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/8/80/002_1.png/revision/latest?cb=20150602174921",
         "rarity": "Normal",
         "banner": "None"
     },
     "brave cat": {
         "name": "Brave Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/4/44/002_2.png/revision/latest?cb=20150602174942",
         "rarity": "Normal",
         "banner": "None"
     },
     "dark cat": {
         "name": "Dark Cat",
-        "image": "https://media.discordapp.net/attachments/1196102100195754114/1377765458564091944/nt_XDiBBmInAJjLPVE.png?ex=683a2792&is=6838d612&hm=023e0127ebd52b0fb086152b23748ef929d0a85cd143270094b5b05227d3a704&=&format=webp&quality=lossless",
+        "image": "https://static.wikia.nocookie.net/battle-cats/images/0/05/002_3.png/revision/latest?cb=20150602175017",
         "rarity": "Normal",
         "banner": "None"
     },
