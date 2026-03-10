@@ -28,3 +28,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 .gitattributes
+
+# storage
+src/storage/inventory.json
