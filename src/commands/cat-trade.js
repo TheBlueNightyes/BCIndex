@@ -36,9 +36,22 @@ export const config = createCommandConfig({
         name: 'cat',
         description: 'Cat to trade',
         type: 'string',
-        required: true
+        required: true,
+        autocomplete: true
     }]
 });
+
+export async function autocomplete(interaction) {
+    const focused = interaction.options.getFocused();
+    const catsData = Object.values(loadJSON(CATS_FILE));
+
+    const filtered = catsData
+        .filter(cat => cat.name.toLowerCase().includes(focused.toLowerCase()))
+        .slice(0, 25)
+        .map(cat => ({ name: cat.name, value: cat.name }));
+
+    await interaction.respond(filtered);
+}
 
 export default async function (interaction) {
     logger.info(`${interaction.user.username} initiated a trade!`);
