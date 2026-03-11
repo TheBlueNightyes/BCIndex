@@ -31,3 +31,4 @@ yarn-error.log*
 
 # storage
 src/storage/inventory.json
+src/storage/setup.json
